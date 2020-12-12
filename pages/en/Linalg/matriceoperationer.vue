@@ -13,7 +13,7 @@
           a_{n1}&a_{n2}&\cdots &a_{nn} \end{bmatrix}$+$\begin{bmatrix}
           b_{11}&b_{12}&\cdots &b_{1n} \\ b_{21}&b_{22}&\cdots &b_{2n} \\ \vdots
           & \vdots & \ddots & \vdots\\ b_{n1}&b_{n2}&\cdots &b_{nn}
-          \end{bmatrix}$, to arbitrære kvadratiske lige store matricer
+          \end{bmatrix}$, two square matrices
         </p>
         <p class="formel" ref="MD_FLEX3">
           =$\begin{bmatrix} a_{11}+b_{11}&a_{12}+b_{12}&\cdots &a_{1n}+b_{1n} \\

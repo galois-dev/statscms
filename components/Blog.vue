@@ -40,7 +40,7 @@ export default {}
   body {
     p {
       padding: 1em;
-      font-size: 16px;
+      font-size: 18px;
     }
   }
 }

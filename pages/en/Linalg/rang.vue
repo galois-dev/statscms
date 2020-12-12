@@ -1,7 +1,7 @@
 <template>
   <div>
     <Blog>
-      <template v-slot:header>Rang</template>
+      <template v-slot:header>Rank</template>
       <template v-slot:body> </template>
       <template v-slot:footer> </template>
     </Blog>

@@ -6,15 +6,13 @@
       aria-label="main navigation"
     >
       <div class="navbar-brand">
-        <a class="navbar-item" href="/">
-          <img src="~assets/buefy.png" alt="Buefy" height="28" />
-        </a>
+        <h1>Stats CMS</h1>
 
-        <div class="navbar-burger">
+        <!-- <div class="navbar-burger">
           <span />
           <span />
           <span />
-        </div>
+        </div> -->
       </div>
     </nav>
 

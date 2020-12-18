@@ -41,7 +41,7 @@
               <nuxt-link class="inline" :to="{ path: 'scalar' }"
                 >scalar</nuxt-link
               >
-              onto a different row from the left
+              nxt onto a different row from the left
             </p>
           </li>
           <li><p class="inline" ref="MD_7">Type T: Swap two rows</p></li>

@@ -3,11 +3,16 @@
     <Blog>
       <template v-slot:header>Matrix Dimension</template>
       <template v-slot:body
-        ><p>
-          A matrix dimension is given by its 'horizontal' rowspace også called
-          its rank
+        ><p class="inline">
+          A matrix dimension is given by its 'horizontal' rowspace also called
+          its
+          <nuxt-link class="inline" :to="{ path: 'rang' }"> rank </nuxt-link>
         </p>
-        <p>and its 'vertical' columnspace also called order</p>
+
+        <p class="inline">
+          and its 'vertical' columnspace also called its
+          <nuxt-link class="inline" :to="{ path: 'orden' }"> order </nuxt-link>.
+        </p>
       </template>
       <template v-slot:footer> </template>
     </Blog>

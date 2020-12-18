@@ -43,14 +43,29 @@ export default {}
       font-size: 18px;
     }
   }
-}
 
+  footer {
+    text-align: center;
+    border-radius: 6px;
+    background-color: rgba(211, 211, 211, 0.438);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.2;
+    h3 {
+      margin: 6px;
+      font-size: 16px;
+      color: $primary;
+    }
+  }
+}
 .formel {
   text-align: center !important;
 }
 .inline {
   padding: 0 !important;
   margin: 0 !important;
+  margin-bottom: 2px !important;
+  margin-top: 2px !important;
   p {
     padding: 0 !important;
     margin: 0 !important;

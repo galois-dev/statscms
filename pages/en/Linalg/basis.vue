@@ -114,7 +114,7 @@
           corresponding entries in $x$ are zero.) When $A$ is row reduced to
           echelon form $B$, the columns are drastically changed, but the
           equations $Ax = 0$ and $Bx = 0$ have the same set of solutions. That
-          is, the columns of $A$ have $exactly\space the\space same\space linear\space dependence
+          is, the columns of $A$ have $exactly\space the\space same\space linear\space dependence\space
           relationships$ as the columns of $B$.
         </p>
       </template>
